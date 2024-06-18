@@ -1,5 +1,5 @@
 import unittest
-from geometry import rectangle_area, rectangle_perimeter, circle_area, circle_circumference
+from geo import rectangle_area, rectangle_perimeter, circle_area, circle_circumference
 
 class TestGeometry(unittest.TestCase):
     def test_rectangle_area(self):
