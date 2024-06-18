@@ -1,6 +1,5 @@
 # Projet CI
-
-## Installation
+## Installation ....
 
 Clonez le dépôt :
 ```bash
