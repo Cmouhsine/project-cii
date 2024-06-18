@@ -4,6 +4,6 @@
 
 Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/projet-ci.git
+git clone https://github.com/xxxxxxxxxxx/projet-ci.git
 cd projet-ci
 # project-cii
